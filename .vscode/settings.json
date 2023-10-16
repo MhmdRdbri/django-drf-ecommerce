@@ -4,15 +4,11 @@
             "titleBar.activeBackground": "#2f2828",
             "titleBar.activeForeground": "#FEFCFD"
       },
-      "python.linting.enabled":true,
-      "python.linting.lintOnSave":true,
-      "python.linting.flake8Enabled":true,
-      "pytho.linting.flake8Args": [
-            "--max-line-length",
-            "88"
-      ],
       "editor.formatOnSave": true,
       "python.formatting.provider": "none",
+
+
+      
       "pytho.formatting.blackArgs": [
             "--line-length",
             "88"
