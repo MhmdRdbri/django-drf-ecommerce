@@ -6,7 +6,7 @@ from .models import *
 from .serializers import *
 
 
-class CategoryView(viewsets.ViewSet):
+class CategoryViewSet(viewsets.ViewSet):
     """
     A simple viewset for viewwing data
     """
